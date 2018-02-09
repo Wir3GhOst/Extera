@@ -1,5 +1,5 @@
 #Simpe Script for Counting the Pages of all PDF files in Directory 
-#Coded my @wir3GhOst
+#Coded by @wir3GhOst
 import sys,fnmatch,os,glob
 from PyPDF2 import PdfFileReader
 def count_pages():
